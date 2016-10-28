@@ -12,15 +12,15 @@
 #inner{
 	height:336px;
 	width:336px;
-	background-color:#A8CD1B; 
+	
 	position: relative;
 	margin:20px auto;
 }
 .squares{
 	height:20px;
 	width:20px;
-	margin-top:-2px;
+	margin-top:-5px;
 	position:relative;
 	background-color: white;
-	display:inline;
+	display:inline-block;
 }
